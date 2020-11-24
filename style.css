@@ -1,0 +1,46 @@
+#nav-logo{
+	flex: 3;
+	justify-content: flex-start;
+}
+.nav-search{
+	flex: 2;
+	padding: 7px;
+	background: #fff;
+	border: 1px solid #dbdbdb;
+	border-radius: 3px;
+	justify-content: center;
+	color: #8e8e8e;
+	cursor: text;
+}
+nav{
+	float: left;
+	align-items: center;
+	height: 54px;
+}
+.nav-link{
+	justify-content: flex-end;
+	list-style: none;
+	padding-left: 24px;
+}
+#home
+#inbox
+#explore
+#activity
+#provnavbar{
+	width: 30px;
+	height: 30px;
+	outline-style: none;
+	border: none;
+}
+#home{
+	background: url(sss.png) -829px -84px;
+}
+#inbox{
+	background: url(sss.png) -829px -84px;
+}
+#explore{
+	background: url(sss.png) -829px -84px;
+}
+#activity{
+	background: url(sss.png) -829px -84px;
+}
